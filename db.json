@@ -1,0 +1,5 @@
+{
+    "mikvas": [
+      { "id": 1, "name": "json-server", "city": "typicode", "openHours": "5-8", "rate": 5 }
+    ]
+  }
