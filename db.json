@@ -1,6 +1,10 @@
 {
-    "mikvas": [
-      { "first": [{"name": "json-server"}, {"city": "typicode"}, {"openHours": "5-8"}, {"rate": 5} ]},
-      { "7": [{"name": "test"}, {"city": "typicode"}, {"openHours": "3-9"}, {"rate": 5} ] }
-    ]
+  "mikvas": {
+      "001": [
+          {"name":"Sentra", "city":"Jerusalem", "openHours":"4-6", "rate": 4}
+      ],
+      "004": [
+        {"name":"Sentrum", "city":"Tel-Aviv", "openHours":"7-12", "rate": 3.5}
+      ]
   }
+}
