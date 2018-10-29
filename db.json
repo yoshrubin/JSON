@@ -1,6 +1,6 @@
 {
     "mikvas": [
-      { "1": [{"name": "json-server"}, {"city": "typicode"}, {"openHours": "5-8"}, {"rate": 5} ]},
+      { "first": [{"name": "json-server"}, {"city": "typicode"}, {"openHours": "5-8"}, {"rate": 5} ]},
       { "7": [{"name": "test"}, {"city": "typicode"}, {"openHours": "3-9"}, {"rate": 5} ] }
     ]
   }
