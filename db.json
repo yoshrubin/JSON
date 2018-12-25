@@ -1,57 +1,57 @@
 {
   "mikvas": [{
-      "Id": 1,
-      "Date": "01/02/2020",
-      "TotalScore": 4.5,
-      "CleanScore": 3,
-      "FacilitiesScore": 4.5,
-      "AttitudeScore": 2.5,
-      "Comment": "Was ok but not the best"
+      "id": 1,
+      "date": "01/02/2020",
+      "totalscore": 4.5,
+      "cleanscore": 3,
+      "facilitiesscore": 4.5,
+      "attitudescore": 2.5,
+      "comment": "Was ok but not the best"
     },
     {
-      "Id": 2,
-      "Date": "01/02/2020",
-      "TotalScore": 4.5,
-      "CleanScore": 3,
-      "FacilitiesScore": 4.5,
-      "AttitudeScore": 2.5,
-      "Comment": "Was ok but not the best"
+      "id": 2,
+      "date": "01/02/2020",
+      "totalscore": 4.5,
+      "cleanscore": 3,
+      "facilitiesscore": 4.5,
+      "attitudescore": 2.5,
+      "comment": "Was ok but not the best"
     },
     {
-      "Id": 3,
-      "Date": "01/02/2020",
-      "TotalScore": 4.5,
-      "CleanScore": 3,
-      "FacilitiesScore": 4.5,
-      "AttitudeScore": 2.5,
-      "Comment": "Was ok but not the best"
+      "id": 3,
+      "date": "01/02/2020",
+      "totalscore": 4.5,
+      "cleanscore": 3,
+      "facilitiesscore": 4.5,
+      "attitudescore": 2.5,
+      "comment": "Was ok but not the best"
     },
     {
-      "Id": 4,
-      "Date": "01/02/2020",
-      "TotalScore": 4.5,
-      "CleanScore": 3,
-      "FacilitiesScore": 4.5,
-      "AttitudeScore": 2.5,
-      "Comment": "Was ok but not the best"
+      "id": 4,
+      "date": "01/02/2020",
+      "totalscore": 4.5,
+      "cleanscore": 3,
+      "facilitiesscore": 4.5,
+      "attitudescore": 2.5,
+      "comment": "Was ok but not the best"
     },
     {
-      "Id": 5,
-      "Date": "01/02/2020",
-      "TotalScore": 4.5,
-      "CleanScore": 5,
-      "FacilitiesScore": 4.5,
-      "AttitudeScore": 2.5,
-      "Comment": "Was ok but not the best"
+      "id": 5,
+      "date": "01/02/2020",
+      "totalscore": 4.5,
+      "cleanscore": 3,
+      "facilitiesscore": 4.5,
+      "attitudescore": 2.5,
+      "comment": "Was ok but not the best"
     },
     {
-      "Id": 6,
-      "Date": "01/02/2020",
-      "TotalScore": 4.5,
-      "CleanScore": 3,
-      "FacilitiesScore": 4.5,
-      "AttitudeScore": 2.5,
-      "Comment": "Was ok but not the best"
+      "id": 6,
+      "date": "01/02/2020",
+      "totalscore": 4.5,
+      "cleanscore": 3,
+      "facilitiesscore": 4.5,
+      "attitudescore": 2.5,
+      "comment": "Was ok but not the best"
     }
   ]
 }
