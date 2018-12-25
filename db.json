@@ -1,76 +1,57 @@
 {
-    "mikvas": [
-      {
-        "city": "אופקים",
-        "name": "מקווה א'",
-        "address": "רחוב משעול הרקפת",
-        "sex": "נשים",
-        "contact_person": "לא פעיל",
-        "phone_1": "אין",
-        "phone_2": "אין",
-        "openHours": "סגור",
-        "id": 42,
-        "rating": 1
-      },
-      {
-        "city": "אופקים",
-        "name": "מקווה ב'",
-        "address": "רחוב אבוחצירא 14",
-        "sex": "נשים",
-        "contact_person": "איילה כהן",
-        "phone_1": "054-8527884",
-        "phone_2": "08-6588049",
-        "openHours": "   בקיץ -19.00-21.00    ",
-        "id": 42,
-        "rating": 1.1
-      },
-      {
-        "city": "אופקים",
-        "name": "מקווה ג'",
-        "address": "רחוב ר' עמרם בן דיואן 1",
-        "sex": "נשים",
-        "contact_person": "יעל מרון",
-        "phone_1": "054-8485607",
-        "phone_2": "08-6372047",
-        "openHours": "בקיץ- 18.00-23.00 ",
-        "id": 42,
-        "rating": 1.2
-      },
-      {
-        "city": "אופקים",
-        "name": "מקווה ד'",
-        "address": "רחוב שמשון 1",
-        "sex": "נשים",
-        "contact_person": "חנה מוריוסף",
-        "phone_1": "052-7691437",
-        "phone_2": "08-6539617",
-        "openHours": "בקיץ- 18.00-23.00 ",
-        "id": 42,
-        "rating": 1.3
-      },
-      {
-        "city": "אור יהודה",
-        "name": "רמת פנקס",
-        "address": "רח' לנדאו מול 32",
-        "sex": "נשים",
-        "contact_person": "תהילה נחום",
-        "phone_1": "0526242440",
-        "phone_2": "",
-        "openHours": "בתיאום מראש",
-        "id": 45,
-        "rating": 1.4
-      },
-      {
-        "city": "אור עקיבא ",
-        "name": "אור עקיבא ",
-        "address": "תאנה 1 ",
-        "sex": "נשים",
-        "contact_person": "אדרי זהבה ",
-        "phone_1": "525211440",
-        "phone_2": "525211440",
-        "openHours": " 20דקות לאחר השקיעה למשך שעתיים",
-        "id": 46,
-        "rating": 1.5
-      }
-     ]
-  }
+  "mikvas": [{
+      "Id": 1,
+      "Date": "01/02/2020",
+      "TotalScore": 4.5,
+      "CleanScore": 3,
+      "FacilitiesScore": 4.5,
+      "AttitudeScore": 2.5,
+      "Comment": "Was ok but not the best"
+    },
+    {
+      "Id": 2,
+      "Date": "01/02/2020",
+      "TotalScore": 4.5,
+      "CleanScore": 3,
+      "FacilitiesScore": 4.5,
+      "AttitudeScore": 2.5,
+      "Comment": "Was ok but not the best"
+    },
+    {
+      "Id": 3,
+      "Date": "01/02/2020",
+      "TotalScore": 4.5,
+      "CleanScore": 3,
+      "FacilitiesScore": 4.5,
+      "AttitudeScore": 2.5,
+      "Comment": "Was ok but not the best"
+    },
+    {
+      "Id": 4,
+      "Date": "01/02/2020",
+      "TotalScore": 4.5,
+      "CleanScore": 3,
+      "FacilitiesScore": 4.5,
+      "AttitudeScore": 2.5,
+      "Comment": "Was ok but not the best"
+    },
+    {
+      "Id": 5,
+      "Date": "01/02/2020",
+      "TotalScore": 4.5,
+      "CleanScore": 5,
+      "FacilitiesScore": 4.5,
+      "AttitudeScore": 2.5,
+      "Comment": "Was ok but not the best"
+    },
+    {
+      "Id": 6,
+      "Date": "01/02/2020",
+      "TotalScore": 4.5,
+      "CleanScore": 3,
+      "FacilitiesScore": 4.5,
+      "AttitudeScore": 2.5,
+      "Comment": "Was ok but not the best"
+    }
+  ]
+}
