@@ -1,4 +1,4 @@
 # JSON
 
 
-github.com/yoshrubin/JSON/master/db.json
+https://my-json-server.typicode.com/yoshrubin/JSON
